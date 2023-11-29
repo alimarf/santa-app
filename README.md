@@ -1,6 +1,6 @@
 # SANTA APP
 
-Flutter project using Flutter Bloc
+Flutter project using Cubit
 
 ## Features
 
