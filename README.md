@@ -2,10 +2,6 @@
 
 Flutter project using Flutter Bloc
 
-## Table of Contents
-
-- [Features](#features)
-
 ## Features
 
 - List of Children
