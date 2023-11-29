@@ -16,7 +16,7 @@ Flutter project using Flutter Bloc
 
 ```
 lib\
- |--cubit\              # State management
+ |--cubit               # State management
  |--child_model.dart    # Class model
  |--home_page.dart      # Home Page
  |--main.dart           # Main
