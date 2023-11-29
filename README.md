@@ -1,16 +1,24 @@
-# santa_app
+# SANTA APP
 
-A new Flutter project.
+Flutter project using Flutter Bloc
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Features](#features)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- List of Children
+- Add child
+- Change status each child when click item
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+```
+lib\
+ |--cubit\              # State management
+ |--child_model.dart    # Class model
+ |--home_page.dart      # Home Page
+ |--main.dart           # Main
+
+```
